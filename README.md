@@ -13,10 +13,6 @@
 </p>
 
 
-![Contributors](https://img.shields.io/github/contributors/shsarv/Machine-Learning-Projects?color=dark-green) ![Forks](https://img.shields.io/github/forks/shsarv/Machine-Learning-Projects?style=social) ![Stargazers](https://img.shields.io/github/stars/shsarv/Machine-Learning-Projects?style=social) ![Issues](https://img.shields.io/github/issues/shsarv/Machine-Learning-Projects) ![License](https://img.shields.io/github/license/shsarv/Machine-Learning-Projects) 
-
-------------------
-
 **This Contain All the Machine Learning Projects that I have done while understanding Machine Learning Concepts.**
 
 
