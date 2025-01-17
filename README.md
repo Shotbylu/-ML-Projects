@@ -1,6 +1,7 @@
 **This Contain All the Machine Learning Projects that I have done while understanding Machine Learning Concepts.**
 
-![image](https://github.com/user-attachments/assets/fc8859e1-cd13-4ef8-83db-fb0ec21edf28)
+![image](https://github.com/user-attachments/assets/3a680b74-101b-4134-b740-cc8cadfb601b)
+
 
 ## List of Projects :-
 
