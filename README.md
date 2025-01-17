@@ -25,10 +25,10 @@ Contributions are what make the open source community such an amazing place to l
 ### Creating A Pull Request
 
 1. Fork the Repo
-2. Create your Project Branch (`git checkout -b Project/AmazingProject`)
-3. Commit your Changes (`git commit -m 'Add some AmazingProject'`)
-4. Push to the Branch (`git push origin Project/AmazingProject`)
-5. Open a Pull Request
+2. Create your Project Branch (`git checkout -b Project/ML-Projects`)
+3. Commit your Changes (`git commit -m 'Add some ML-Projects'`)
+4. Push to the Branch (`git push origin Project/-ML-Projects`)
+6. Open a Pull Request
 
 ## License
 
