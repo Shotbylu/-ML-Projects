@@ -1,4 +1,4 @@
-**This Contain All the Machine Learning Projects that I have done while understanding Machine Learning Concepts.**
+**This Contain All the Machine Learning Projects that I have done while learning Machine Learning Concepts.**
 
 ![image](https://github.com/user-attachments/assets/3a680b74-101b-4134-b740-cc8cadfb601b)
 
